@@ -37,7 +37,7 @@ pip install dukascopy
      -s STARTDATE start date format YYYY-MM-DD (default today)
      -e ENDDATE   end date format YYYY-MM-DD (default today)
      -c CANDLE    use candles instead of ticks. Accepted values M1 M2 M5 M10 M15 M30 H1 H4 D1
-     -f FOLDER    the dowloaded data will be saved in FOLDER (default '.')
+     -f FOLDER    the dowloaded data will be saved in FOLDER (default '/var/www/html/DATA/')
      -t THREAD    number of threads (default 10)
      --header     include CSV header (default false)
 ```
