@@ -20,7 +20,7 @@ This is what **dukascopy** looks like:
 **dukascopy** requires python 3.5 and request 2.0.1. It can be installed using `pip` as follows:
 
 ```
-pip install duka
+pip install dukascopy
 ```
 
 ## Usage
